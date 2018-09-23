@@ -2,10 +2,8 @@
 //  RestaurantDetailViewController.swift
 //  FoodPin
 //
-//  Created by Simon Ng on 31/8/2017.
-//  Copyright © 2017 AppCoda. All rights reserved.
+//  Created by Jan Hovland on 12/9/2018.
 //
-
 import UIKit
 
 class RestaurantDetailViewController: UIViewController, UITableViewDataSource, UITableViewDelegate  {
